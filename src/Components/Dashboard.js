@@ -44,7 +44,7 @@ function Dashboard(nameData) {
                                 <div class="card-body">
                                     <h5 class="card-title">{list.name}</h5>
                                     
-                                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                                    <a href="#" class="btn btn-primary">Go Link</a>
                                 </div>
                             </div>
 
